@@ -1,1 +1,2 @@
-.\rcdata\
+# ignore directory with original files
+.rcdata/
