@@ -6,7 +6,7 @@ object dlgWelcome: TdlgWelcome
   Caption = 'Aurora Neverwinter Nights Toolset'
   ClientHeight = 396
   ClientWidth = 370
-  Color = clBtnFace
+  Color = clSilver
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
