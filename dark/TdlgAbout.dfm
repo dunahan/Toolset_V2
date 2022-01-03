@@ -7,7 +7,7 @@ object dlgAbout: TdlgAbout
   Caption = 'About'
   ClientHeight = 419
   ClientWidth = 464
-  Color = clBtnFace
+  Color = clBtnShadow
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
