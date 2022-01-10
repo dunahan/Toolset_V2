@@ -1,5 +1,7 @@
 # ignore files
 *.exe
+*-zip
 
 # ignore directory with original files
-.rcdata/
+/rcdata
+/dark_version
