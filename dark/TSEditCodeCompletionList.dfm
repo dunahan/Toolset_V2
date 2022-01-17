@@ -6,7 +6,7 @@ object SEditCodeCompletionList: TSEditCodeCompletionList
   BorderWidth = 1
   ClientHeight = 162
   ClientWidth = 390
-  Color = clWindowText
+  Color = clSilver
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
