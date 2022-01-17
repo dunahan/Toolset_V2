@@ -7,7 +7,7 @@ object frmHelp: TfrmHelp
   Caption = 'NWToolset Help'
   ClientHeight = 213
   ClientWidth = 312
-  Color = clWindow
+  Color = clSilver
   Constraints.MinHeight = 240
   Constraints.MinWidth = 320
   Font.Charset = DEFAULT_CHARSET

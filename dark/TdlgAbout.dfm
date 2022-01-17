@@ -7,7 +7,7 @@ object dlgAbout: TdlgAbout
   Caption = 'About'
   ClientHeight = 419
   ClientWidth = 464
-  Color = clBtnShadow
+  Color = clSilver
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -2134,7 +2134,7 @@ object dlgAbout: TdlgAbout
       Top = 112
       Width = 297
       Height = 33
-      Color = clBtnFace
+      Color = clSilver
       Lines.Strings = (
         'Shadows of Undrentide'
         'Hordes of the Underdark')
